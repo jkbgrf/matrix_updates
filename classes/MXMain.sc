@@ -36,7 +36,7 @@ Save
 Setup name
   - bei irgendeiner Aenderung: * hinzufuegen
 
-Updates need to be made
+Jetzt gehts hier los mit der pull push sache!!
 
 */
 
