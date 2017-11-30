@@ -36,7 +36,8 @@ Save
 Setup name
   - bei irgendeiner Aenderung: * hinzufuegen
 
-Jetzt gehts hier los mit der pull push sache!!
+OK was passiert, wenn ich hier total viel ändere und dann möchte ich aber wieder zurück zu meinem Ausgangscode?
+lets see
 
 */
 
